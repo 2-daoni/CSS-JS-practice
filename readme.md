@@ -13,3 +13,13 @@
 
 - 스크린샷
   ![캡처](https://user-images.githubusercontent.com/76942135/148072793-26d4ef25-bb8d-4c4d-8dbe-f343488bf2b1.PNG)
+
+3. Hot Cup - 김이 나오는 듯한 효과
+
+- 스크린샷
+  ![HotCup](https://user-images.githubusercontent.com/76942135/148241538-9c55e921-60c5-4c95-8a4b-bf1ceff87ca9.PNG)
+
+4. Parallax Scrolling
+
+- 스크린샷
+  ![moon](https://user-images.githubusercontent.com/76942135/148252308-e4775694-e310-4155-8cc6-864d6969eae5.PNG)

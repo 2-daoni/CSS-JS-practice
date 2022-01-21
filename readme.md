@@ -43,3 +43,8 @@
 
 - 스크린샷
   ![캡처](https://user-images.githubusercontent.com/76942135/150129686-8ec22ebb-2102-4933-8cac-1f21a8dd10f3.PNG)
+
+9. CSS only CheckBox
+
+- 스크린샷
+  ![결과](https://user-images.githubusercontent.com/76942135/150564107-7d1578ed-ba52-49c9-9b2e-3a53ed558519.PNG)

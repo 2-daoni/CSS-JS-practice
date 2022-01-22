@@ -48,3 +48,8 @@
 
 - 스크린샷
   ![결과](https://user-images.githubusercontent.com/76942135/150564107-7d1578ed-ba52-49c9-9b2e-3a53ed558519.PNG)
+
+10. Video Inside Text
+
+- 스크린샷
+  ![결과](https://user-images.githubusercontent.com/76942135/150629221-07b43212-221b-4050-b23a-10a3a3892d62.PNG)
